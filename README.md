@@ -4,7 +4,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dpamdkeWNmNXgxMG1nNjF2enpnZmRtcmt5aTl6NXJ6NGFqbjdzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ab2F73qenl1c6sNy3S/giphy.gif" alt="Welcome GIF" />
 </h2>
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qamar247/EliteEdge/main/EliteEdge_Gaming.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qamar247/EliteEdge/blob/main/EliteEdge_Gaming.ipynb)
 
 
 
